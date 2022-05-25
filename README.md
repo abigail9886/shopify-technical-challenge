@@ -7,7 +7,7 @@ Repo for submitting documentation for Shopify Internship Technical Challenge
 ## LinkedIn and Resume
 [My LinkedIn Profile](https://www.linkedin.com/in/abigailglisson/)
 
-[My Resume](https://drive.google.com/file/d/18MiMcjDogs6uZlhfCRCx7zl6X5f_Dal-/view?usp=sharing)
+[My Cover Letter to Shopify's Early Talent Team](https://github.com/aglisson6/shopify-technical-challenge/blob/main/Abigail%20Glisson_cover%20letter_Shopify.pdf) and [Resume](https://drive.google.com/file/d/18MiMcjDogs6uZlhfCRCx7zl6X5f_Dal-/view?usp=sharing)
 
 ## Message to Hiring Manager
 As a career-changer from public school teaching, I am excited about the digital-by-design expectations of working at Shopify. I love that Shopify values its Shopifolk for all our diverse characteristics, and its strong interest in individuals' career growth. The Shopify Internship experience would be an amazing opportunity to quickly establish myself in this new field by giving me a chance to show that I am a hard worker and a quick learner. I think my previous career experience as a classroom teacher demonstrates very strong soft skills - now I just need a chance to build on the hard skills I am currently learning in my DS certificate program by taking on real projects.
